@@ -18,7 +18,7 @@ A real-time collaborative coding platform. Build apps together with code, sketch
 ## Tech Stack
 
 - **Frontend:** React.js
-- **Realtime Collaboration:** Firebase or Socket.io
+- **Realtime Collaboration:** Firebase or Socket.io 
 - **AI Integration:** OpenAI API
 
 
