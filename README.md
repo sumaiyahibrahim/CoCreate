@@ -3,7 +3,7 @@
 A real-time collaborative coding platform. Build apps together with code, sketches, and AI—live, from anywhere.
 
 ## Features
-
+ 
 - **Real-time collaborative code editing**
 - **AI-powered code suggestions**
 - **Sketch-to-code UI builder (coming soon)** 
