@@ -16,7 +16,7 @@ A real-time collaborative coding platform. Build apps together with code, sketch
 3. Run `npm start` to launch the development server.
 
 ## Tech Stack
-
+ 
 - **Frontend:** React.js
 - **Realtime Collaboration:** Firebase or Socket.io 
 - **AI Integration:** OpenAI API
