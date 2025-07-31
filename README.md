@@ -8,7 +8,7 @@ A real-time collaborative coding platform. Build apps together with code, sketch
 - **AI-powered code suggestions**
 - **Sketch-to-code UI builder (coming soon)**   
 - **Instant app preview**  
-  
+   
 ## Getting Started
   
 1. Clone this repository. 
